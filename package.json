@@ -9,6 +9,7 @@
     "templates"
   ],
   "dependencies": {
+    "bootstrap": "^4.5.3",
     "create-create-app": "^7.0.0"
   },
   "license": "AGPL-3.0"
